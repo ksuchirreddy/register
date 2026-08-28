@@ -1,0 +1,11 @@
+    {
+      "description": "PulseGuard - Uptime & API Health Monitor",
+      "repo": "https://github.com/ksuchirreddy/pulseguard",
+      "owner": {
+        "username": "ksuchirreddy",
+        "email": "ksuchirreddy@gmail.com"
+      },
+      "record": {
+        "CNAME": "cname.vercel-dns.com"
+      }
+    }
