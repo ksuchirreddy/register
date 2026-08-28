@@ -6,6 +6,7 @@
         "email": "ksuchirreddy@gmail.com"
       },
       "record": {
-        "CNAME": "cname.vercel-dns.com"
+        "CNAME": "cname.vercel-dns.com",
+        "TXT": "vc-domain-verify=pulseguard.is-a.dev,d58d6f4d08c6dacd7864"
       }
-    }
+    }  
